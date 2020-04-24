@@ -126,8 +126,8 @@ a:hover {
   border-radius: 8px;
   font-family: "Montserrat", sans-serif;
   color: #ffffff;
-  font-size: 20px;
-  /*  padding: 1rem 2rem; */
+ /* font-size: 20px; */
+  padding: 0.7rem 1.4rem;
    padding: 10px 20px; 
   text-decoration: none;
 }
